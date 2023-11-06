@@ -1,12 +1,7 @@
-## Hi there 👋
+## Hi this is Sumnex
+![Sumnex](https://github.com/Sumnex/.github/assets/3236669/a3f4a747-f42f-4ba6-83fa-c2e9b2c692d0)
 
-<!--
+You are here because you want to setup your LLM Data Platform.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> **Note**
+> In case of fire, `git commit` & `git push` then leave the building
